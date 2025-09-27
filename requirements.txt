@@ -128,7 +128,7 @@ pyyaml-ft==8.0.0
     # via libcst
 radon==6.0.1
     # via -r requirements.in
-referencing==0.35.1
+referencing==0.36.2
     # via
     #   -r requirements.in
     #   jsonschema
